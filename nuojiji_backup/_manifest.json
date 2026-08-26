@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787774328474,
+  "timestamp": 1787774333672,
   "appVersion": "6.9.52 (2026.08.26)",
   "tables": [
     "characters",
@@ -162,7 +162,8 @@
     "shopFulfillments": true,
     "chatVariables": true,
     "plugins": true,
-    "pluginAssets": true
+    "pluginAssets": true,
+    "pluginData": true
   },
   "inProgress": true
 }
