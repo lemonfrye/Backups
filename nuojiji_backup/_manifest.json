@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787767333426,
+  "timestamp": 1787767340260,
   "appVersion": "6.9.52 (2026.08.26)",
   "tables": [
     "characters",
@@ -85,6 +85,9 @@
     "charLifePlans",
     "_migration"
   ],
+  "chunkedTables": {
+    "messages": 2
+  },
   "completedTables": {
     "characters": true,
     "friendRequests": true,
