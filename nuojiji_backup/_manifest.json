@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787773928146,
+  "timestamp": 1787773928471,
   "appVersion": "6.9.52 (2026.08.26)",
   "tables": [
     "characters",
@@ -86,10 +86,9 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 162,
+    "messages": 161,
     "summaryEntries": 2,
-    "roleStickers": 2,
-    "thinkingStore": 1
+    "roleStickers": 2
   },
   "completedTables": {
     "characters": true,
@@ -128,19 +127,7 @@
     "quickReplies": true,
     "goingOutState": true,
     "goingOutAreas": true,
-    "mapRasterCache": true,
-    "customGames": true,
-    "customGameSaves": true,
-    "customWidgetTemplates": true,
-    "customWidgetState": true,
-    "wallpapers": true,
-    "lifeRpgData": true,
-    "whiteDogData": true,
-    "isekaiSaves": true,
-    "isekaiPresets": true,
-    "pomodoroData": true,
-    "regexRules": true,
-    "mcpServers": true
+    "mapRasterCache": true
   },
   "inProgress": true
 }
