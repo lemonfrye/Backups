@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787773849331,
+  "timestamp": 1787773850302,
   "appVersion": "6.9.52 (2026.08.26)",
   "tables": [
     "characters",
@@ -86,7 +86,7 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 161,
+    "messages": 162,
     "summaryEntries": 2,
     "roleStickers": 2
   },
@@ -117,7 +117,18 @@
     "userLinks": true,
     "userMessages": true,
     "ttsAudio": true,
-    "forumData": true
+    "forumData": true,
+    "calendarData": true,
+    "groupChats": true,
+    "xinsheng": true,
+    "pomodoroSessions": true,
+    "couplesData": true,
+    "stickerStore": true,
+    "quickReplies": true,
+    "goingOutState": true,
+    "goingOutAreas": true,
+    "mapRasterCache": true,
+    "customGames": true
   },
   "inProgress": true
 }
