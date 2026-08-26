@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787774239867,
+  "timestamp": 1787774242838,
   "appVersion": "6.9.52 (2026.08.26)",
   "tables": [
     "characters",
@@ -86,7 +86,7 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 161,
+    "messages": 162,
     "summaryEntries": 2,
     "roleStickers": 2,
     "thinkingStore": 2
@@ -142,7 +142,28 @@
     "regexRules": true,
     "mcpServers": true,
     "commitments": true,
-    "characterLifeState": true
+    "characterLifeState": true,
+    "chikanPhoneSkins": true,
+    "healthEntries": true,
+    "healthProfile": true,
+    "homelandState": true,
+    "fontStore": true,
+    "radioData": true,
+    "novelBooks": true,
+    "novelChapters": true,
+    "coReadBooks": true,
+    "coReadSessions": true,
+    "naiVibeCache": true,
+    "walletTransactions": true,
+    "walletData": true,
+    "shopOrders": true,
+    "shopData": true,
+    "shopFulfillments": true,
+    "chatVariables": true,
+    "plugins": true,
+    "pluginAssets": true,
+    "pluginData": true,
+    "charLifePlans": true
   },
   "inProgress": true
 }
