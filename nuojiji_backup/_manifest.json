@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787773988644,
+  "timestamp": 1787773995952,
   "appVersion": "6.9.52 (2026.08.26)",
   "tables": [
     "characters",
@@ -86,10 +86,9 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 162,
+    "messages": 161,
     "summaryEntries": 2,
-    "roleStickers": 2,
-    "thinkingStore": 2
+    "roleStickers": 2
   },
   "completedTables": {
     "characters": true,
@@ -134,24 +133,7 @@
     "customWidgetTemplates": true,
     "customWidgetState": true,
     "wallpapers": true,
-    "lifeRpgData": true,
-    "whiteDogData": true,
-    "isekaiSaves": true,
-    "isekaiPresets": true,
-    "pomodoroData": true,
-    "regexRules": true,
-    "mcpServers": true,
-    "commitments": true,
-    "characterLifeState": true,
-    "chikanPhoneSkins": true,
-    "healthEntries": true,
-    "healthProfile": true,
-    "homelandState": true,
-    "fontStore": true,
-    "radioData": true,
-    "novelBooks": true,
-    "novelChapters": true,
-    "coReadBooks": true
+    "lifeRpgData": true
   },
   "inProgress": true
 }
